@@ -1,5 +1,3 @@
-//testeee
-
 $(document).ready(function() {
 	// Progress bar
 	let containerA = document.getElementById("circleA"); //pega o elemento "circleA" e insere na variável "containerA"
