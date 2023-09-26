@@ -159,6 +159,6 @@ $(document).ready(function() {
 
 		$([document.documentElement, document.body]).animate({
 			scrollTop: $(scrollTo).offset().top - 70
-		}, 1500);
+		}, 1000);
 	});
 });

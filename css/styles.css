@@ -28,6 +28,7 @@ header, .navbar {
 
 #logo {
 	width: 75px;
+	margin-right: 5px;
 }
 
 .navbar-brand {
@@ -93,6 +94,12 @@ header, .navbar {
 
 .carousel-indicators .active {
 	background-color: #65DAF9;
+}
+
+#home-menu:hover, #about-menu:hover, #services-menu:hover,
+#team-menu:hover, #portfolio-menu:hover, #contact-menu:hover {
+	cursor: pointer;
+	color: #c1c1c1;
 }
 
 /*Sobre a empresa */
